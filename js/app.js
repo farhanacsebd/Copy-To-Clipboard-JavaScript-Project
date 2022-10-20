@@ -1,3 +1,4 @@
 document.getElementById('btn').addEventListener('click',function(){
-    console.log('hello');
+    const input = document.getElementById('input');
+    navigator.clipboard.writeText(input.value);
 })
