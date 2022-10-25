@@ -1,4 +1,4 @@
-#### pic source get from `https://loremipsum.io/21-of-the-best-placeholder-image-generators/`
+#### pic url get from `https://loremipsum.io/21-of-the-best-placeholder-image-generators/`
 ```javascript
 document.getElementById('btn').addEventListener('click',function(){
     const input = document.getElementById('input');
